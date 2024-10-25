@@ -1,6 +1,6 @@
 {
-  "name": " nuxt",
-  "version": "3.0.0",
+  "name": " snyk-chat-goof",
+  "version": "1.0.0",
   "description": "Vue Multiroom Chat with Nuxt, Vuex and WebSocket",
   "author": "kojot",
   "private": true,
