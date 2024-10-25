@@ -11,8 +11,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "elliptic": "6.5.7",
     "nuxt": "3.0.0",
+    "elliptic": "6.5.7",
     "cross-env": "5.2.0",
     "parse-url": "6.0.1",
     "sockjs-client": "1.4.0",
