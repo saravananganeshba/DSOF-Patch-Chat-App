@@ -1,6 +1,6 @@
 {
-  "name": "parse-url",
-  "version": "6.0.1",
+  "name": " nuxt",
+  "version": "3.0.0",
   "description": "Vue Multiroom Chat with Nuxt, Vuex and WebSocket",
   "author": "kojot",
   "private": true,
