@@ -13,6 +13,8 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^3.0.0",
+    "parse-url": "^6.0.1",
+    "elliptic": "^6.5.7",
     "sockjs-client": "^1.4.0",
     "webstomp-client": "^1.2.6",
     "marked": "0.3.5"
