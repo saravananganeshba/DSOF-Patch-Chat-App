@@ -1,6 +1,6 @@
 {
-  "name": "snyk-chat-goof",
-  "version": "3.0.0",
+  "name": "elliptic",
+  "version": "6.5.7",
   "description": "Vue Multiroom Chat with Nuxt, Vuex and WebSocket",
   "author": "kojot",
   "private": true,
